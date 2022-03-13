@@ -7,15 +7,16 @@ The UFO web site can be used to sort data in a number of ways.  When the page in
 
 ![screenshot of initial UFO Finder page](static/images/ufos1.png)
 
-When the initial page loads, a lot of information is shown, which is most likely more than the user of the webpage will wish to see. By using the search filter on the bottom left part of the page, they can find specific siting information that interests them.  
+When the initial page loads, a lot of information is shown, which is most likely more than the user of the webpage will wish to see. By using the search filter on the bottom left part of the page, they can find specific siting information that interests them.  For example, let's say someone wishes to find out how many UFO sitings occurred on January 10, 2010.  By entering this date into the date filter, as shown in the screenshot below,  11 events are immediately returned.  
 
 ![UFO Finder webpage searching a specific date](static/images/ufos2.png)
 
+Searches can be done using more than on criterion.  For example, we could add to the search done previously be requiring all of the sitings to have occurred in the state of California.  In the screenshot below "ca" was entered into the state filter and two results were instantly returned.  This enables users to gather as much or as little data for their query about UFOs. 
+
 ![UFO Finder webpage searching a specific date and state](static/images/ufos3.png)
 
+
 ## Summary
-One drawback...
-
-Two recommendations...
-
+A well-organized, good-looking web page was created that enables users to filter through data with five available filters.  However, one drawback of the web site is that 
+it does not allow users to filter the "duration" or "comments" section of the data table.  It would be helpful to know whether a siting lasted seconds versus minutes.  Short duration sitings are less likely to be as credible as long duration sitings.  Hence, a user may wish to be able to filter the information by "duration".  Some of the best details of the UFO siting are found in the "comments" section.  Being able to access and group the details found in this column of the table, such as for words such as "hovering" or "fast" could be very useful.  
  
