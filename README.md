@@ -5,11 +5,11 @@ A web site about UFO sitings was created using HTML and made aesthetically pleas
 ## Results
 The UFO web site can be used to sort data in a number of ways.  When the page initially loads all of the data entries can be viewed in the table, as shown in the screen shot below.  
 
-![screenshot of initial UFOs page](static/images/ufos1.png)
+![screenshot of initial UFO Finder page](static/images/ufos1.png)
 
-![screenshot of December data](statis/images/ufos2.png)
+![UFO Finder webpage searching a specific date](static/images/ufos2.png)
 
-![screenshot of December data](static/images/ufos3.png)
+![UFO Finder webpage searching a specific date and state](static/images/ufos3.png)
 
 ## Summary
 One drawback...
